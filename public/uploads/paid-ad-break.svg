@@ -1,0 +1,10 @@
+<svg width="1000" height="900" viewBox="0 0 1000 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="900" rx="40" fill="#F4EFE6"/>
+  <rect x="76" y="86" width="848" height="728" rx="34" fill="#17313B"/>
+  <text x="124" y="188" fill="#8DC9C1" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">SOCIAL AD</text>
+  <text x="124" y="320" fill="#FBF8F2" font-size="88" font-family="Georgia, serif">Your next</text>
+  <text x="124" y="414" fill="#FBF8F2" font-size="88" font-family="Georgia, serif">break can help.</text>
+  <circle cx="732" cy="444" r="114" fill="#8DC9C1"/>
+  <path d="M650 476C686 424 736 396 816 402C786 450 736 482 650 476Z" fill="#17313B"/>
+</svg>
+

@@ -1,0 +1,12 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="44" fill="#17313B"/>
+  <circle cx="700" cy="196" r="108" fill="#2E6A69"/>
+  <circle cx="700" cy="196" r="64" fill="#8DC9C1"/>
+  <text x="90" y="170" fill="#D8EDE8" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">CALMCOVE</text>
+  <text x="90" y="338" fill="#FBF8F2" font-size="76" font-family="Georgia, serif">3 Signs</text>
+  <text x="90" y="424" fill="#FBF8F2" font-size="76" font-family="Georgia, serif">Your Brain</text>
+  <text x="90" y="510" fill="#FBF8F2" font-size="76" font-family="Georgia, serif">Needs a Reset</text>
+  <rect x="90" y="610" width="520" height="116" rx="32" fill="#F4EFE6"/>
+  <text x="132" y="675" fill="#17313B" font-size="30" font-family="Arial, sans-serif">Save for your next study break</text>
+</svg>
+

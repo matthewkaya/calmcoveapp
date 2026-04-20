@@ -1,0 +1,55 @@
+{
+  "title": "Audience Personas",
+  "intro": "These personas represent CalmCove's two highest-potential audience groups: students navigating academic overload and young professionals balancing ambition with emotional fatigue.",
+  "items": [
+    {
+      "name": "Ayla Morgan",
+      "age": "21",
+      "lifestyle": "Full-time university student juggling coursework, a part-time retail job, and a busy social life.",
+      "painPoints": [
+        "Burnout during exam periods",
+        "Difficulty focusing after long screen time",
+        "Stress spikes before deadlines"
+      ],
+      "goals": [
+        "Feel calmer before studying",
+        "Build a realistic wellness routine",
+        "Improve focus without expensive solutions"
+      ],
+      "platformsUsed": [
+        "Instagram",
+        "YouTube",
+        "TikTok"
+      ],
+      "purchaseBehavior": "Ayla signs up after free trials, student discounts, or strong peer recommendations. She wants proof that a tool will help immediately.",
+      "narrative": "Ayla wants emotional relief that works between classes, study sessions, and late-night stress. She values brands that feel gentle, aesthetic, and practical.",
+      "image": "/uploads/persona-student.svg",
+      "imageAlt": "Student persona portrait illustration for Ayla Morgan."
+    },
+    {
+      "name": "Noah Patel",
+      "age": "27",
+      "lifestyle": "Young marketing coordinator managing a hybrid schedule, side projects, gym goals, and constant notifications.",
+      "painPoints": [
+        "Mental overload from work multitasking",
+        "End-of-day emotional fatigue",
+        "Difficulty switching from stress to rest"
+      ],
+      "goals": [
+        "Protect focus during work blocks",
+        "Reset quickly between meetings",
+        "Adopt calm habits that fit a full schedule"
+      ],
+      "platformsUsed": [
+        "Instagram",
+        "Facebook",
+        "YouTube"
+      ],
+      "purchaseBehavior": "Noah pays for tools that feel efficient, polished, and credible. He responds to case-based proof, expert positioning, and frictionless onboarding.",
+      "narrative": "Noah wants a calm productivity ritual that helps him stay composed and clear-headed without asking for major lifestyle changes.",
+      "image": "/uploads/persona-professional.svg",
+      "imageAlt": "Young professional persona portrait illustration for Noah Patel."
+    }
+  ]
+}
+

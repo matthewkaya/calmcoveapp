@@ -1,0 +1,46 @@
+{
+  "title": "Analytics",
+  "intro": "Mock KPI projections show how CalmCove can measure awareness, engagement, and conversion after its first launch month.",
+  "kpis": [
+    { "label": "Reach", "value": "148K", "trend": "+18%" },
+    { "label": "Engagement Rate", "value": "6.2%", "trend": "+1.1 pts" },
+    { "label": "Follower Growth", "value": "4,350", "trend": "+24%" },
+    { "label": "CTR", "value": "2.9%", "trend": "+0.6 pts" },
+    { "label": "Free Trial Conversions", "value": "1,420", "trend": "+16%" }
+  ],
+  "channelPerformance": [
+    {
+      "channel": "Instagram",
+      "reach": 62000,
+      "engagementRate": 7.1,
+      "ctr": 3.2,
+      "conversions": 640
+    },
+    {
+      "channel": "Facebook",
+      "reach": 31000,
+      "engagementRate": 4.6,
+      "ctr": 2.1,
+      "conversions": 280
+    },
+    {
+      "channel": "YouTube",
+      "reach": 55000,
+      "engagementRate": 5.4,
+      "ctr": 3.0,
+      "conversions": 500
+    }
+  ],
+  "weeklyTrend": [
+    { "week": "Week 1", "reach": 18000, "engagement": 4.8, "conversions": 180 },
+    { "week": "Week 2", "reach": 29000, "engagement": 5.6, "conversions": 260 },
+    { "week": "Week 3", "reach": 47000, "engagement": 6.4, "conversions": 430 },
+    { "week": "Week 4", "reach": 54000, "engagement": 7.0, "conversions": 550 }
+  ],
+  "recommendations": [
+    "Increase Reels production because Instagram drives the strongest awareness and click-through performance.",
+    "Repurpose high-retention YouTube moments into Instagram and Facebook paid creatives.",
+    "Expand community prompts and UGC reposts because interaction lifts campaign relatability.",
+    "Retarget engaged video viewers with free-trial conversion ads during the final week of each campaign cycle."
+  ]
+}

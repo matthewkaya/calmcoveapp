@@ -1,0 +1,10 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="48" fill="#F6F1E8"/>
+  <circle cx="400" cy="286" r="128" fill="#D8EDE8"/>
+  <path d="M240 744C258 596 316 510 400 510C484 510 542 596 560 744H240Z" fill="#2E6A69"/>
+  <path d="M296 318C296 232 344 184 400 184C456 184 504 232 504 318V366C504 452 456 500 400 500C344 500 296 452 296 366V318Z" fill="#F0CFAF"/>
+  <path d="M300 276C300 194 346 150 404 150C466 150 512 198 512 282V332C500 306 468 284 432 284H354C330 284 314 292 300 306V276Z" fill="#17313B"/>
+  <rect x="208" y="724" width="384" height="72" rx="36" fill="#DCCDBB"/>
+  <text x="400" y="780" text-anchor="middle" fill="#17313B" font-size="34" font-family="Georgia, serif">Noah</text>
+</svg>
+

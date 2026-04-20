@@ -1,0 +1,11 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="44" fill="#EEF4F2"/>
+  <rect x="78" y="84" width="744" height="732" rx="38" fill="#F8F3EA"/>
+  <text x="120" y="176" fill="#2E6A69" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">RESET ROUTINE</text>
+  <text x="120" y="322" fill="#17313B" font-size="92" font-family="Georgia, serif">Stress</text>
+  <text x="120" y="414" fill="#17313B" font-size="92" font-family="Georgia, serif">Spike?</text>
+  <text x="120" y="530" fill="#2E6A69" font-size="78" font-family="Georgia, serif">Do This.</text>
+  <circle cx="640" cy="542" r="124" fill="#8DC9C1"/>
+  <path d="M564 570C596 520 642 492 724 498C694 546 650 578 564 570Z" fill="#17313B"/>
+</svg>
+

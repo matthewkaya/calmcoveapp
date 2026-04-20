@@ -1,0 +1,11 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="44" fill="#D8EDE8"/>
+  <rect x="88" y="90" width="724" height="720" rx="42" fill="#FBF8F2"/>
+  <text x="126" y="196" fill="#2E6A69" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">FOCUS SESSION</text>
+  <text x="126" y="334" fill="#17313B" font-size="86" font-family="Georgia, serif">10 Minute</text>
+  <text x="126" y="420" fill="#17313B" font-size="86" font-family="Georgia, serif">Reset &amp; Focus</text>
+  <rect x="126" y="534" width="648" height="174" rx="38" fill="#17313B"/>
+  <rect x="180" y="594" width="270" height="22" rx="11" fill="#FBF8F2"/>
+  <rect x="180" y="636" width="360" height="18" rx="9" fill="#BFD7D2"/>
+</svg>
+

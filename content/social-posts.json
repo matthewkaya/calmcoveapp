@@ -1,0 +1,85 @@
+{
+  "title": "Sample Social Posts",
+  "intro": "These branded post concepts show how CalmCove communicates stress awareness, emotional support, and clear action in a visually consistent way.",
+  "posts": [
+    {
+      "title": "3 Signs Your Brain Needs a Reset",
+      "objective": "Awareness",
+      "caption": "Your brain is not lazy. It is overloaded. Here are three signs it may be asking for a reset before you push harder.",
+      "hashtags": [
+        "#CalmCove",
+        "#MindfulStudents",
+        "#StressReset"
+      ],
+      "cta": "Save this for your next study break",
+      "visual": "/uploads/post-brain-reset.svg",
+      "visualAlt": "Social post visual for 3 signs your brain needs a reset."
+    },
+    {
+      "title": "Stress Spike? Do This.",
+      "objective": "Engagement",
+      "caption": "A 60-second grounding reset can change the next hour of your day. Pause, breathe, and come back softer.",
+      "hashtags": [
+        "#CalmCove",
+        "#StressSupport",
+        "#MicroReset"
+      ],
+      "cta": "Try the reset now",
+      "visual": "/uploads/post-stress-spike.svg",
+      "visualAlt": "Social post visual for a quick stress reset."
+    },
+    {
+      "title": "Join the 7 Day Calm Challenge",
+      "objective": "Participation",
+      "caption": "Seven days. Seven tiny reset moments. Build a calmer routine without changing your whole life.",
+      "hashtags": [
+        "#CalmChallenge",
+        "#CalmCove",
+        "#DailyReset"
+      ],
+      "cta": "Join the challenge",
+      "visual": "/uploads/post-calm-challenge.svg",
+      "visualAlt": "Social post visual promoting the CalmCove challenge."
+    },
+    {
+      "title": "10 Minute Reset and Focus",
+      "objective": "Education",
+      "caption": "This is your between-tasks routine: breathe, soften your shoulders, then step back into focus with more clarity.",
+      "hashtags": [
+        "#FocusSession",
+        "#CalmCove",
+        "#StudyBetter"
+      ],
+      "cta": "Watch the full routine",
+      "visual": "/uploads/post-focus-session.svg",
+      "visualAlt": "Social post visual for a 10 minute reset and focus session."
+    },
+    {
+      "title": "Night Reset",
+      "objective": "Retention",
+      "caption": "End the day gently. CalmCove helps you move from overstimulated to exhale mode in a few guided minutes.",
+      "hashtags": [
+        "#NightReset",
+        "#SleepRoutine",
+        "#CalmCove"
+      ],
+      "cta": "Try tonight's wind-down",
+      "visual": "/uploads/post-night-reset.svg",
+      "visualAlt": "Social post visual for an evening calm routine."
+    },
+    {
+      "title": "Start Your Free Trial",
+      "objective": "Conversion",
+      "caption": "A calmer day can start in minutes. Explore guided resets, focus sessions, and daily wellness tools for free.",
+      "hashtags": [
+        "#CalmCove",
+        "#WellnessApp",
+        "#FreeTrial"
+      ],
+      "cta": "Start your free trial",
+      "visual": "/uploads/post-free-trial.svg",
+      "visualAlt": "Social post visual encouraging free trial signup."
+    }
+  ]
+}
+

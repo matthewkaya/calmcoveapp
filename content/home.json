@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "eyebrow": "Digital wellness platform launch concept",
+    "title": "Calm routines for overloaded days.",
+    "description": "CalmCove is designed for students and young professionals who need fast, realistic reset moments that reduce stress, restore focus, and fit into everyday routines.",
+    "primaryCtaLabel": "Explore the Brand",
+    "primaryCtaHref": "#overview",
+    "secondaryCtaLabel": "View Campaigns",
+    "secondaryCtaHref": "#paid-campaign",
+    "stats": [
+      { "label": "Core audience", "value": "18-30" },
+      { "label": "Reset length", "value": "3-10 min" },
+      { "label": "Launch channels", "value": "IG / FB / YT" }
+    ],
+    "visual": {
+      "src": "/uploads/hero-calmcove.svg",
+      "alt": "Soft branded hero visual showing a student-focused digital wellness interface.",
+      "caption": "Concept hero visual editable from the CMS"
+    }
+  },
+  "brandOverview": {
+    "title": "Brand Overview",
+    "intro": "CalmCove is a fictional digital wellness platform that turns overwhelming moments into quick, guided resets. The brand is positioned as a realistic support tool rather than an idealized wellness lifestyle.",
+    "whatItIs": "A mobile-first digital wellness brand offering guided reset routines, focus sessions, calming audio experiences, and daily emotional regulation tools.",
+    "whatItOffers": "Short breathing routines, ambient focus timers, grounding audio, micro-journaling prompts, and simple daily wellness check-ins.",
+    "whyItExists": "Young adults are saturated by pressure, notifications, deadlines, and emotional fatigue. CalmCove exists to make feeling better feel achievable in minutes instead of hours.",
+    "whoItIsFor": "Students and early-career professionals who value mental clarity, practical tools, and routines that can fit between classes, commutes, deadlines, and work shifts.",
+    "differentiator": "CalmCove focuses on micro reset experiences that feel emotionally intelligent, low pressure, and immediately useful inside busy schedules.",
+    "mission": "Help busy people regain calm and focus through realistic micro reset experiences that fit everyday life.",
+    "positioning": "CalmCove helps busy people regain calm and focus through realistic micro reset experiences that fit everyday life.",
+    "appPreviewImage": "/uploads/app-preview.svg",
+    "appPreviewAlt": "Preview cards representing CalmCove app routines and calm audio experiences."
+  },
+  "targetMarket": {
+    "title": "Target Market",
+    "intro": "CalmCove targets high-pressure young adults who recognize their stress, want relief quickly, and prefer approachable tools over complicated wellness systems.",
+    "demographics": [
+      "Age: 18-30",
+      "Education: College, university, graduate school, or early-career upskilling",
+      "Income: Limited to moderate disposable income, with careful spending on helpful subscriptions",
+      "Occupation: Full-time students, interns, entry-level professionals, hybrid workers, and side-hustle creators"
+    ],
+    "psychographics": [
+      "Values calm, balance, productivity, and emotional control",
+      "Wants wellness tools that feel modern, supportive, and non-judgmental",
+      "Seeks routines that improve focus without adding more pressure",
+      "Responds to brands that feel aesthetically calming and genuinely useful"
+    ],
+    "behavioralInsights": [
+      "Purchases subscription tools after testing free value and seeing fast benefits",
+      "Uses social media for motivation, self-improvement, and short-form education",
+      "Saves practical content that can be revisited during stressful moments",
+      "Engages most with relatable messaging, calming visuals, and low-friction calls to action"
+    ],
+    "onlineHabitText": "They spend the most time on Instagram Reels, YouTube, short-form wellness content, productivity creators, and student lifestyle communities."
+  },
+  "brandIdentity": {
+    "title": "Brand Identity",
+    "intro": "The CalmCove identity balances softness and clarity. It feels premium but approachable, calm without being sleepy, and strategic without sounding clinical.",
+    "personality": [
+      "Calm",
+      "Supportive",
+      "Modern",
+      "Emotionally intelligent",
+      "Minimal"
+    ],
+    "toneOfVoice": "Gentle, reassuring, practical, and clear. CalmCove speaks like a smart friend who helps you reset, not a brand that lectures you about self-care.",
+    "valueProposition": "A realistic way to feel calmer, think clearer, and reset faster during busy days.",
+    "colors": [
+      { "name": "Soft Teal", "hex": "#8DC9C1" },
+      { "name": "Muted Beige", "hex": "#DCCDBB" },
+      { "name": "Warm White", "hex": "#FBF8F2" },
+      { "name": "Sand", "hex": "#BFA98B" },
+      { "name": "Deep Slate", "hex": "#17313B" }
+    ],
+    "typography": {
+      "heading": "Cormorant Garamond",
+      "body": "Outfit",
+      "accent": "Rounded, spacious, premium editorial hierarchy"
+    },
+    "imageryDirection": "Soft gradients, rounded UI moments, people in reflective environments, tactile interface close-ups, and warm ambient light.",
+    "logoDirection": "Rounded wordmark with a soft horizon-inspired icon to suggest a calm bay, pause point, and safe mental space."
+  },
+  "platformStrategy": {
+    "title": "Platform Strategy",
+    "intro": "CalmCove uses Instagram, Facebook, and YouTube as complementary channels. Each platform has a distinct role within the brand funnel.",
+    "platforms": [
+      {
+        "name": "Instagram",
+        "role": "Awareness + engagement",
+        "why": "Instagram is the primary discovery channel for visual storytelling, micro wellness tips, challenge participation, and branded short-form content.",
+        "focusAreas": [
+          "Reels for reach",
+          "Carousel education",
+          "Stories for interaction",
+          "Highlights for trust-building"
+        ]
+      },
+      {
+        "name": "Facebook",
+        "role": "Community + retention",
+        "why": "Facebook supports shareable wellness content, event-style challenge communication, and a more conversational space for discussion and reminders.",
+        "focusAreas": [
+          "Community posts",
+          "Challenge reminders",
+          "Comment discussion",
+          "Retargeting support"
+        ]
+      },
+      {
+        "name": "YouTube",
+        "role": "Education + depth",
+        "why": "YouTube fits CalmCove because guided sessions, focus content, and explanatory storytelling benefit from longer watch time and repeat viewing behavior.",
+        "focusAreas": [
+          "Focus sessions",
+          "Challenge intros",
+          "Evergreen wellness content",
+          "Search discovery"
+        ]
+      }
+    ]
+  },
+  "contentStrategy": {
+    "title": "Content Strategy",
+    "intro": "The content strategy is built around practical emotional value. Every post should either calm, educate, or activate the audience.",
+    "contentPillars": [
+      "Micro reset education",
+      "Stress and focus awareness",
+      "Challenge-based participation",
+      "Product value storytelling"
+    ],
+    "postFormats": [
+      "Reels",
+      "Carousel posts",
+      "Stories",
+      "Short-form videos",
+      "Static graphics",
+      "YouTube long-form"
+    ],
+    "postingFrequency": "Instagram 4x weekly, Facebook 3x weekly, YouTube 1x weekly, with daily Stories during active campaigns.",
+    "engagementMethods": [
+      "Question stickers and polls",
+      "Comment prompts",
+      "Challenge reposts",
+      "UGC reshares",
+      "Reminder posts",
+      "Short wellness check-ins"
+    ],
+    "calendarIntro": "The launch month calendar balances awareness, education, participation, and conversion moments across the brand funnel."
+  },
+  "summary": {
+    "title": "Why CalmCove Will Succeed",
+    "intro": "CalmCove is built around a real audience problem and translates that insight into a cohesive social-first brand system.",
+    "successPoints": [
+      "A clear audience need rooted in stress, overload, and reduced focus",
+      "Strong emotional positioning that feels supportive instead of aspirational",
+      "Platform choices aligned with discovery, education, and retention behavior",
+      "Balanced content strategy across awareness, engagement, and conversion",
+      "Integrated paid and influencer campaigns that amplify the brand story",
+      "A measurable growth plan supported by clear KPI targets and optimizations"
+    ],
+    "groupMembers": [
+      "Muharrem Kaya",
+      "Modesta Akudo Uzomba",
+      "Simarpreet Kaur",
+      "Nethania Mpiana"
+    ]
+  }
+}
+

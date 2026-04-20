@@ -1,0 +1,10 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="44" fill="#F8F3EA"/>
+  <rect x="86" y="90" width="728" height="720" rx="40" fill="#EEF4F2"/>
+  <text x="130" y="212" fill="#2E6A69" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">CONVERSION</text>
+  <text x="130" y="360" fill="#17313B" font-size="98" font-family="Georgia, serif">Start Your</text>
+  <text x="130" y="464" fill="#17313B" font-size="98" font-family="Georgia, serif">Free Trial</text>
+  <rect x="130" y="566" width="320" height="94" rx="47" fill="#17313B"/>
+  <text x="196" y="624" fill="#FBF8F2" font-size="30" font-family="Arial, sans-serif">Start free</text>
+</svg>
+

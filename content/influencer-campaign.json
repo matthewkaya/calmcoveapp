@@ -1,0 +1,53 @@
+{
+  "title": "Influencer Campaign",
+  "intro": "The influencer strategy uses a creator whose audience already values routines, emotional honesty, and calm productivity habits.",
+  "campaign": {
+    "name": "Reset Between Things",
+    "handle": "@lenaflowslow",
+    "followerCount": "186K",
+    "primaryPlatform": "Instagram + YouTube Shorts",
+    "audienceDemographics": "Mainly women and men aged 18-29, students and early-career professionals interested in wellness, study routines, and self-development.",
+    "contentStyle": "Soft-spoken productivity, reflective routines, calming visuals, and realistic self-care habits.",
+    "whyFit": "The creator's tone matches CalmCove's emotionally intelligent positioning and reaches an audience already motivated by calm productivity content.",
+    "outreachEmail": "Hi Lena, we love how your content makes wellness feel realistic and emotionally grounded. We are launching CalmCove, a digital wellness brand built around quick reset routines for busy young adults. We would love to collaborate on content that shows how small reset moments can improve focus, emotional balance, and everyday energy.",
+    "concept": "A creator-led mini series showing how CalmCove fits into busy transition moments: before class, between meetings, and during night wind-down routines.",
+    "deliverables": [
+      "1 Instagram Reel introducing CalmCove",
+      "3 Story frames with swipe-up CTA",
+      "1 YouTube Short showing a reset routine",
+      "1 follow-up community post sharing audience reflections"
+    ],
+    "mockups": [
+      {
+        "caption": "I tried a 3-minute CalmCove reset between tasks today and the difference was immediate. This is the kind of wellness habit that actually fits real life.",
+        "hashtags": [
+          "#CalmCove",
+          "#CreatorRoutine",
+          "#ResetBetweenThings"
+        ],
+        "cta": "Try the free reset",
+        "visual": "/uploads/influencer-post-routine.svg",
+        "visualAlt": "Influencer mockup for a creator-led routine video."
+      },
+      {
+        "caption": "Night routine update: less scrolling, more intentional reset. CalmCove made my wind-down feel lighter and more structured.",
+        "hashtags": [
+          "#NightReset",
+          "#CalmCove",
+          "#WellnessRoutine"
+        ],
+        "cta": "Join the calm challenge",
+        "visual": "/uploads/influencer-post-night.svg",
+        "visualAlt": "Influencer mockup for a night reset routine."
+      }
+    ],
+    "organicGrowthTactics": [
+      "UGC reposts from challenge participants",
+      "Branded hashtag strategy built around #ResetBetweenThings",
+      "Challenge participation prompts in Stories and Reels",
+      "Trend-based audio adaptation with calm educational overlays",
+      "Community building through comment replies and reflection prompts"
+    ]
+  }
+}
+

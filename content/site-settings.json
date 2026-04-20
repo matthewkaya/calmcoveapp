@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "title": "CalmCove | Digital Wellness Brand Microsite",
+    "description": "A premium one-page brand presentation for CalmCove, a fictional digital wellness platform created for a Brand Building through Social Media group assignment."
+  },
+  "brand": {
+    "name": "CalmCove",
+    "tagline": "Reset your mind in minutes",
+    "projectLabel": "Brand Building through Social Media",
+    "footerNote": "Fictional brand launch microsite created as a college group presentation."
+  },
+  "navigation": [
+    { "label": "Overview", "href": "#overview" },
+    { "label": "Audience", "href": "#target-market" },
+    { "label": "Personas", "href": "#personas" },
+    { "label": "Strategy", "href": "#platform-strategy" },
+    { "label": "Campaigns", "href": "#paid-campaign" },
+    { "label": "Analytics", "href": "#analytics" },
+    { "label": "Summary", "href": "#summary" }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/calmcove.app"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/calmcove.app"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@calmcove"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@calmcove"
+    }
+  ],
+  "logos": {
+    "primary": "/logos/calmcove-logo.svg",
+    "mark": "/logos/calmcove-mark.svg"
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "title": "YouTube Strategy",
+  "intro": "YouTube gives CalmCove a format for longer guided experiences, deeper storytelling, and search-friendly educational content.",
+  "whyItFits": "The platform supports repeat viewing behavior, habit-driven content, and emotionally calming formats that are difficult to deliver fully in short-form social media alone.",
+  "concepts": [
+    {
+      "title": "Study With Me: Calm Focus Session",
+      "purpose": "Provide a practical focus tool while positioning CalmCove as a brand that improves study quality.",
+      "targetViewer": "Students seeking a calmer environment for homework, revision, or essay writing.",
+      "keyMessage": "Focus does not need to feel intense to be effective. Calm structure creates better concentration.",
+      "cta": "Use CalmCove for your next study block",
+      "storyboardVisual": "/uploads/youtube-study-with-me.svg",
+      "storyboardAlt": "Storyboard visual for the CalmCove Study With Me focus session."
+    },
+    {
+      "title": "7 Day Calm Reset Challenge Intro",
+      "purpose": "Introduce the campaign concept, explain the daily challenge structure, and motivate audience participation.",
+      "targetViewer": "Young adults who want a low-pressure way to build a healthier mental reset habit.",
+      "keyMessage": "Small resets done consistently can change how your week feels.",
+      "cta": "Join the challenge and share your day one reset",
+      "storyboardVisual": "/uploads/youtube-challenge-intro.svg",
+      "storyboardAlt": "Storyboard visual for the Calm Reset Challenge introduction."
+    }
+  ]
+}
+

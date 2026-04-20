@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbf8f2;
+  --foreground: #17313b;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(141, 201, 193, 0.22), transparent 34%),
+    linear-gradient(180deg, #fbf8f2 0%, #f6f0e6 100%);
+  color: var(--foreground);
+  font-family: var(--font-body), sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), serif;
+}
+
+.animate-float {
+  animation: float 7s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+::selection {
+  background: rgba(141, 201, 193, 0.4);
+  color: #17313b;
+}
+

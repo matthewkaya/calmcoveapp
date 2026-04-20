@@ -1,0 +1,11 @@
+<svg width="1000" height="900" viewBox="0 0 1000 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="900" rx="40" fill="#17313B"/>
+  <rect x="82" y="92" width="836" height="716" rx="36" fill="#F6F1E8"/>
+  <circle cx="752" cy="238" r="82" fill="#17313B"/>
+  <circle cx="724" cy="238" r="82" fill="#DCCDBB"/>
+  <text x="132" y="206" fill="#2E6A69" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">NIGHT ROUTINE</text>
+  <text x="132" y="350" fill="#17313B" font-size="92" font-family="Georgia, serif">Less scroll.</text>
+  <text x="132" y="444" fill="#17313B" font-size="92" font-family="Georgia, serif">More reset.</text>
+  <rect x="132" y="560" width="362" height="92" rx="46" fill="#17313B"/>
+  <text x="196" y="618" fill="#FBF8F2" font-size="30" font-family="Arial, sans-serif">Join challenge</text>
+</svg>

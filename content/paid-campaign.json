@@ -1,0 +1,77 @@
+{
+  "title": "Paid Campaign",
+  "intro": "The first paid campaign focuses on awareness-to-trial conversion by meeting overwhelmed users in moments of stress and promising immediate relief.",
+  "campaign": {
+    "name": "Pause. Reset. Go Again.",
+    "objective": "Drive free trial sign-ups among students and young professionals.",
+    "bigIdea": "A tiny reset can restore the quality of the rest of your day.",
+    "emotionalHook": "When everything feels heavy, a few guided minutes can help you feel more capable again.",
+    "tagline": "Reset your mind in minutes.",
+    "audienceSummary": "Students under deadline pressure and young professionals navigating multitasking, mental fatigue, and digital overload.",
+    "targetingPlan": [
+      "Interest targeting: wellness, productivity, student life, stress management",
+      "Behavioral targeting: frequent video viewers, app trial users, mindfulness content engagers",
+      "Retargeting: site visitors, video viewers, and challenge participants"
+    ],
+    "placementPlan": [
+      "Instagram Reels",
+      "Instagram Stories",
+      "Facebook Feed",
+      "YouTube Shorts"
+    ],
+    "mockBudget": [
+      { "item": "Instagram Reels + Stories", "amount": "$350" },
+      { "item": "Facebook Feed Retargeting", "amount": "$150" },
+      { "item": "YouTube Shorts Awareness", "amount": "$200" }
+    ],
+    "expectedOutcomes": [
+      "High short-form video completion from relatable hooks",
+      "Low-friction free trial clicks from practical value messaging",
+      "Improved recall through consistent creative direction"
+    ],
+    "adMockups": [
+      {
+        "headline": "Feeling overloaded?",
+        "adCopy": "Take a 3-minute guided reset with CalmCove and step back into your day with more focus.",
+        "cta": "Start free",
+        "visual": "/uploads/paid-ad-reset.svg",
+        "visualAlt": "Paid ad mockup focused on overload relief."
+      },
+      {
+        "headline": "Your next break can actually help.",
+        "adCopy": "Swap mindless scrolling for a calming audio reset made for students and busy professionals.",
+        "cta": "Try CalmCove",
+        "visual": "/uploads/paid-ad-break.svg",
+        "visualAlt": "Paid ad mockup focused on productive reset breaks."
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Reach",
+        "value": "72,400",
+        "detail": "Launch month awareness target"
+      },
+      {
+        "label": "Impressions",
+        "value": "118,900",
+        "detail": "Multi-platform total"
+      },
+      {
+        "label": "Engagement",
+        "value": "6.4%",
+        "detail": "Expected blended rate"
+      },
+      {
+        "label": "CTR",
+        "value": "2.7%",
+        "detail": "Healthy click intent"
+      },
+      {
+        "label": "Free trial clicks",
+        "value": "1,180",
+        "detail": "Primary conversion goal"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,10 @@
+<svg width="1000" height="900" viewBox="0 0 1000 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="900" rx="40" fill="#17313B"/>
+  <rect x="76" y="86" width="848" height="728" rx="34" fill="#EEF4F2"/>
+  <text x="124" y="188" fill="#2E6A69" font-size="24" font-family="Arial, sans-serif" letter-spacing="6">SPONSORED</text>
+  <text x="124" y="336" fill="#17313B" font-size="100" font-family="Georgia, serif">Feeling</text>
+  <text x="124" y="438" fill="#17313B" font-size="100" font-family="Georgia, serif">overloaded?</text>
+  <rect x="124" y="534" width="286" height="90" rx="45" fill="#17313B"/>
+  <text x="188" y="590" fill="#FBF8F2" font-size="30" font-family="Arial, sans-serif">Start free</text>
+</svg>
+

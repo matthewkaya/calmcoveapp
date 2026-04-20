@@ -1,0 +1,102 @@
+{
+  "month": "October Launch Calendar",
+  "entries": [
+    {
+      "date": "Oct 2",
+      "platform": "Instagram",
+      "theme": "Brand introduction",
+      "format": "Reel",
+      "purpose": "Introduce CalmCove and its core promise",
+      "cta": "Follow for quick reset routines"
+    },
+    {
+      "date": "Oct 4",
+      "platform": "Facebook",
+      "theme": "Mission story",
+      "format": "Static post",
+      "purpose": "Build trust and explain why the brand exists",
+      "cta": "Comment your biggest focus challenge"
+    },
+    {
+      "date": "Oct 6",
+      "platform": "Instagram",
+      "theme": "Stress education",
+      "format": "Carousel",
+      "purpose": "Teach signs of mental overload",
+      "cta": "Save for later"
+    },
+    {
+      "date": "Oct 8",
+      "platform": "YouTube",
+      "theme": "Focus experience",
+      "format": "Long-form video",
+      "purpose": "Deliver practical value and show product fit",
+      "cta": "Start a free trial"
+    },
+    {
+      "date": "Oct 10",
+      "platform": "Instagram",
+      "theme": "Challenge launch",
+      "format": "Reel",
+      "purpose": "Activate participation in the 7 Day Calm Challenge",
+      "cta": "Join the challenge"
+    },
+    {
+      "date": "Oct 12",
+      "platform": "Facebook",
+      "theme": "Community check-in",
+      "format": "Question post",
+      "purpose": "Drive discussion and emotional relatability",
+      "cta": "Share your reset habit"
+    },
+    {
+      "date": "Oct 15",
+      "platform": "Instagram",
+      "theme": "Night reset",
+      "format": "Static graphic",
+      "purpose": "Encourage evening ritual adoption",
+      "cta": "Try tonight's reset"
+    },
+    {
+      "date": "Oct 18",
+      "platform": "Instagram Stories",
+      "theme": "Poll interaction",
+      "format": "Stories",
+      "purpose": "Boost engagement and gather feedback",
+      "cta": "Vote in the poll"
+    },
+    {
+      "date": "Oct 20",
+      "platform": "YouTube",
+      "theme": "Challenge recap",
+      "format": "Short video",
+      "purpose": "Show momentum and reinforce habit-building",
+      "cta": "Watch part one"
+    },
+    {
+      "date": "Oct 23",
+      "platform": "Facebook",
+      "theme": "Paid ad retargeting",
+      "format": "Sponsored post",
+      "purpose": "Re-engage interested visitors",
+      "cta": "Claim your free trial"
+    },
+    {
+      "date": "Oct 26",
+      "platform": "Instagram",
+      "theme": "User-generated content",
+      "format": "Repost",
+      "purpose": "Build social proof and community identity",
+      "cta": "Tag CalmCove to be featured"
+    },
+    {
+      "date": "Oct 29",
+      "platform": "Instagram",
+      "theme": "Conversion push",
+      "format": "Reel",
+      "purpose": "Drive last-week free trial signups",
+      "cta": "Start free today"
+    }
+  ]
+}
+
