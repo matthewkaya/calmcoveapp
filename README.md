@@ -1,13 +1,13 @@
 # CalmCove
 
-CalmCove is a polished single-page brand presentation website built for a college Brand Building through Social Media assignment. It uses Next.js App Router, TypeScript, Tailwind CSS, structured JSON content, and Decap CMS so the public site can be updated from an admin interface without editing code directly.
+CalmCove is a polished single-page brand presentation website built for a college Brand Building through Social Media assignment. It uses Next.js App Router, TypeScript, Tailwind CSS, structured JSON content, and a custom password-protected admin so the public site can be updated without editing code directly.
 
 ## Tech Stack
 
 - Next.js App Router
 - TypeScript
 - Tailwind CSS
-- Decap CMS
+- Custom admin with simple username/password
 - Netlify deployment target
 
 ## Features
@@ -16,8 +16,9 @@ CalmCove is a polished single-page brand presentation website built for a colleg
 - Reusable section and card components
 - JSON-driven content architecture
 - Editable admin panel at `/admin`
+- Simple login-based admin access
 - Editable text, links, logos, images, visuals, and campaign content
-- Netlify-ready configuration with Decap CMS Git-based publishing
+- Netlify-ready configuration with GitHub-backed content publishing
 
 ## Project Structure
 
@@ -43,9 +44,6 @@ lib/
   content.ts
   types.ts
 public/
-  admin/
-    config.yml
-    index.html
   logos/
   uploads/
 netlify.toml
@@ -65,15 +63,9 @@ netlify.toml
    npm run dev
    ```
 
-3. Start the site and Decap local backend together:
+3. Open the site at `http://localhost:3000`.
 
-   ```bash
-   npm run dev:all
-   ```
-
-4. Open the site at `http://localhost:3000`.
-
-5. Open the CMS at `http://localhost:3000/admin`.
+4. Open the admin at `http://localhost:3000/admin`.
 
 ## Content Architecture
 
@@ -89,13 +81,24 @@ The public site reads presentation content from JSON files in `content/`.
 - `content/influencer-campaign.json`: influencer plan, outreach, mockups, growth tactics
 - `content/analytics.json`: KPI cards, chart data, recommendations
 
-Any published CMS change updates these files in the repo. Once Netlify rebuilds the site, the public page reflects the new content automatically.
+Admin changes update these files directly in local development. On Netlify, the admin writes updates back to your GitHub repository through the GitHub Contents API. After Netlify rebuilds the site, the public page reflects the new content automatically.
 
 ## Using the Admin Page
 
 The admin interface is available at `/admin`.
 
-From Decap CMS you can update:
+Default login credentials:
+
+- Username: `admin`
+- Password: `calmcove2026`
+
+You can override them with environment variables:
+
+- `ADMIN_USERNAME`
+- `ADMIN_PASSWORD`
+- `ADMIN_SESSION_SECRET`
+
+From the admin page you can update:
 
 - Hero section text
 - Brand overview text
@@ -115,12 +118,14 @@ From Decap CMS you can update:
 - Logo fields
 - Main brand images and campaign visuals
 
+The admin currently uses a JSON editor per content file. Upload a new image, then paste the returned file path into the correct JSON field and save.
+
 ## Media Uploads and Replacements
 
-- Decap uploads media into `public/uploads`.
+- Admin uploads media into `public/uploads` or `public/logos`.
 - Uploaded files are referenced with `/uploads/...` paths.
-- Logo fields are editable from the CMS and can point to new uploaded files.
-- Existing placeholder visuals can be replaced at any time from the image widgets in `/admin`.
+- Logo fields are editable by changing the JSON path values.
+- Existing placeholder visuals can be replaced at any time from `/admin`.
 
 ## Netlify Deployment
 
@@ -131,27 +136,31 @@ From Decap CMS you can update:
 5. Publish handling is managed by the Netlify Next.js plugin in `netlify.toml`.
 6. After the first deploy, confirm the public site works at the root URL and the admin works at `/admin`.
 
-## Enabling Decap CMS on Netlify
+## Required Netlify Environment Variables
 
-For deployed editing, configure Netlify Identity and Git Gateway:
+Set these in Netlify before using the deployed admin to save changes:
 
-1. In Netlify, enable Identity for the site.
-2. Set registration to invite-only if you want tighter control.
-3. Enable Git Gateway in the Identity settings.
-4. Invite the admin user who should edit the site.
-5. Open `/admin` on the deployed site and log in with the invited account.
+- `ADMIN_USERNAME`
+- `ADMIN_PASSWORD`
+- `ADMIN_SESSION_SECRET`
+- `GITHUB_TOKEN`
+- `GITHUB_REPO_OWNER`
+- `GITHUB_REPO_NAME`
+- `GITHUB_BRANCH` (optional, defaults to `main`)
+- `GITHUB_COMMITTER_NAME` (optional)
+- `GITHUB_COMMITTER_EMAIL` (optional)
 
-Important note:
+GitHub token requirements:
 
-- `local_backend: true` in `public/admin/config.yml` supports local editing with `npm run dev:all`.
-- The deployed site uses the `git-gateway` backend defined in the same CMS config.
+- Use a GitHub personal access token with repository contents write access.
+- The admin uses the GitHub Contents API to update JSON files and uploaded media in the repo. citeturn0search0
 
 ## Basic Admin Protection Guidance
 
-- Keep Netlify Identity set to invite-only.
-- Only invite approved editors.
-- Do not share the `/admin` login widely.
-- If you need stronger protection, add additional access controls at the Netlify project level.
+- Change the default username and password in environment variables.
+- Set a strong `ADMIN_SESSION_SECRET`.
+- Keep the GitHub token limited to the target repository when possible.
+- Do not expose the admin credentials publicly.
 
 ## Build and Production Commands
 

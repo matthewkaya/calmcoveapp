@@ -3,9 +3,3 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
-
-[[redirects]]
-  from = "/admin"
-  to = "/admin/index.html"
-  status = 200
-
